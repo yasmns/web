@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <style>
+        body{
+            background-color: rgb(29, 152, 201);
+            text-align: center;
+            color: aliceblue;
+
+        }
+    </style>
+    <div>
+        <h1>signin</h1>
+        &#160;
+        <form action=""></form>
+          
+            <label for="">full name</label>
+            <br>
+            <input type="text" name="full name" id="" placeholder="enter your name">
+            <label for=""></label>
+    </div>
+    <br>
+    <br>
+    <div>
+        <form action=""></form>
+            <label for="">phono no</label>
+            <br>
+            <input type="text" name="full name" id="" placeholder="enter your phono no ">
+            <label for=""></label>
+    </div>
+    <br>
+    <br>
+    <div>
+        <form action=""></form>
+            <label for="">Emaill</label>
+            <br>
+            <input type="text" name="full name" id="" placeholder="enter your Emaill">
+            <label for=""></label>
+    </div>
+    <br>
+    <br>
+    <div>
+        <form action=""></form>
+            <label for="">password</label>
+            <br>
+            <input type="text" name="full name" id="" placeholder="enter yourpassword">
+            <label for=""></label>
+    </div>
+    <br>
+    <br>
+    <div>
+        <form action=""></form>
+            <label for="">confirm password</label>
+            <br>
+            <input type="text" name="full name" id="" placeholder="enter your confirm password">
+            <label for=""></label>
+    </div>
+    <br>
+    <br>
+    <button type="text" class="REGISTER">REGISTER</button>
+</body>
+</html>
